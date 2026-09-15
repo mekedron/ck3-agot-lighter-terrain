@@ -4,6 +4,6 @@ tags={
 	"Utilities"
 	"Map"
 }
-name="Lighter Terrain Textures for AGOT"
+name="AGOT Lighter Terrain Textures"
 picture="thumbnail.png"
 supported_version="1.19.*"

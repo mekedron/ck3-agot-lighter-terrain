@@ -18,4 +18,4 @@ cp "$SRC/descriptor.mod" "$DST/mod/$NAME/descriptor.mod"
 { cat "$SRC/descriptor.mod"; printf 'path="mod/%s"\r\n' "$NAME"; } > "$DST/mod/$NAME.mod"
 
 echo "Установлено в $DST/mod/$NAME"
-echo "Дальше: включи 'Lighter Terrain Textures for AGOT' в плейсете лаунчера сразу под A Game of Thrones (и COW-AGOT), вместо AGOT Micro."
+echo "Дальше: включи 'AGOT Lighter Terrain Textures' в плейсете лаунчера сразу под A Game of Thrones (и COW-AGOT), вместо AGOT Micro."

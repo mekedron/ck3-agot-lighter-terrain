@@ -1,9 +1,9 @@
-# Lighter Terrain Textures for AGOT (CK3)
+# AGOT Lighter Terrain Textures (CK3)
 
 The idea of [AGOT Micro](https://steamcommunity.com/sharedfiles/filedetails/?id=3254254511),
 AGOT's official performance submod - the terrain textures at half size - rebuilt from the
 current [A Game of Thrones](https://steamcommunity.com/sharedfiles/filedetails/?id=2962333032)
-files - none of Micro's own files. Workshop title "Lighter Terrain Textures for AGOT"
+files - none of Micro's own files. Workshop title "AGOT Lighter Terrain Textures"
 (kit in `steam-workshop/`); the description credits Micro and says why it is not used as it
 stands. Micro's page asks for no re-creations or re-uploads of Micro; this mod is published
 under its own name, with its own files, and the description points at the official one.
