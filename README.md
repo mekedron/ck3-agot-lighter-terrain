@@ -1,9 +1,12 @@
-# AGOT Micro (rebuilt) - local fork
+# Lighter Terrain Textures for AGOT (CK3)
 
 The idea of [AGOT Micro](https://steamcommunity.com/sharedfiles/filedetails/?id=3254254511),
 AGOT's official performance submod - the terrain textures at half size - rebuilt from the
 current [A Game of Thrones](https://steamcommunity.com/sharedfiles/filedetails/?id=2962333032)
-files. **Local only, not published:** Micro's page forbids re-creations and re-uploads.
+files - none of Micro's own files. Workshop title "Lighter Terrain Textures for AGOT"
+(kit in `steam-workshop/`); the description credits Micro and says why it is not used as it
+stands. Micro's page asks for no re-creations or re-uploads of Micro; this mod is published
+under its own name, with its own files, and the description points at the official one.
 
 ## Why not Micro itself
 
@@ -36,6 +39,8 @@ from the installed AGOT and checks that every array is uniform; the encoder and 
 Load it directly below A Game of Thrones (and COW-AGOT), **instead of** AGOT Micro - not
 together with it. It overlaps no other mod of the AGOT playset.
 
+    steam-workshop/make_thumbnail.py   rebuild the Workshop preview from gfx/
+    tools/bbcode_to_plain.py     regenerate the Paradox Mods texts
     tools/update.sh              after an AGOT update: rebuild if needed, then install
     ./install.sh                 copy into the Proton prefix mod folder
     tools/make_micro.py          rebuild every texture from the installed AGOT

@@ -1,0 +1,28 @@
+Lighter Terrain Textures for AGOT
+
+Guide: https://steamcommunity.com/sharedfiles/filedetails/?id=3800254441 — the settings and mods this belongs to.
+
+For https://steamcommunity.com/sharedfiles/filedetails/?id=2962333032 on a GPU with little video memory: every terrain texture AGOT's map uses, at half its size. 470 textures, 157 MB down to 39 MB, built from AGOT's own current files. A little less ground detail up close, the same colours everywhere.
+
+WHY
+
+On a 4 GB card the AGOT map alone nearly fills the video memory, and when it runs out the graphics driver fails its allocations: stutter, then a map drawn out of garbage until a restart. The terrain texture arrays are one of the big blocks of that memory.
+
+HOW
+
+CK3 loads every terrain material's diffuse, normal and properties texture into three texture arrays, and each array needs all its textures at one size. A script reads the list of materials AGOT actually uses from its materials.settings and writes each of those textures at 256x256 instead of 512x512: same compression, a full mip chain, each channel downsampled on its own (the alpha channel holds height data, not transparency). All three arrays stay uniform. After an AGOT update the script is simply run again.
+
+CREDIT, AND AGOT MICRO
+
+The idea is AGOT's own official submod, https://steamcommunity.com/sharedfiles/filedetails/?id=3254254511. This mod contains none of its files. Micro was last built for CK3 1.12.5, and against AGOT 0.5.2.1 it misses 41 textures of the current arrays, which stay at 512x512 among 256x256 ones (87 "texture array has inconsistent properties" errors in error.log), and many of its textures come from older, darker AGOT art. Use one or the other, not both. If Micro is updated for the current AGOT, prefer the official one.
+
+NOTES
+
+- Graphics only: no gameplay, script or history files, ironman and achievements are unaffected
+- Safe to add or remove at any time, including mid-campaign
+- Works with Advanced Shader Effects on or off
+- Built for CK3 1.19.x and AGOT 0.5.2.1. An AGOT release that changes its terrain textures needs a rebuild here
+
+COMPATIBILITY
+
+Load it directly below A Game of Thrones. Replaces 470 textures in gfx/map/terrain, so it conflicts only with mods that replace AGOT's terrain textures, AGOT Micro included. Independent of the other AGOT patches.

@@ -1,0 +1,1 @@
+Every terrain texture of A Game of Thrones' map at half size, built from AGOT's current files: 157 MB of texture data down to 39 MB, same colours. Load below AGOT.

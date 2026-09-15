@@ -1,8 +1,9 @@
 version="1.0.0"
 tags={
-	"Map"
 	"Graphics"
 	"Utilities"
+	"Map"
 }
-name="AGOT Micro (rebuilt)"
+name="Lighter Terrain Textures for AGOT"
+picture="thumbnail.png"
 supported_version="1.19.*"
