@@ -28,3 +28,8 @@ CK3 загружает текстуры diffuse, normal и properties каждо
 [h2]Совместимость[/h2]
 
 Ставить сразу под A Game of Thrones. Заменяет 470 текстур в gfx/map/terrain, поэтому конфликтует только с модами, которые заменяют текстуры ландшафта AGOT, включая AGOT Micro. От других AGOT-патчей не зависит.
+
+[h2]Исходный код[/h2]
+
+Скрипт сборки и цифры сравнения с Micro:
+[url=https://github.com/mekedron/ck3-agot-lighter-terrain]github.com/mekedron/ck3-agot-lighter-terrain[/url]

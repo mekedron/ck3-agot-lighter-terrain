@@ -28,3 +28,8 @@ The idea is AGOT's own official submod, [url=https://steamcommunity.com/sharedfi
 [h2]Compatibility[/h2]
 
 Load it directly below A Game of Thrones. Replaces 470 textures in gfx/map/terrain, so it conflicts only with mods that replace AGOT's terrain textures, AGOT Micro included. Independent of the other AGOT patches.
+
+[h2]Source[/h2]
+
+The build script and the numbers behind the Micro comparison:
+[url=https://github.com/mekedron/ck3-agot-lighter-terrain]github.com/mekedron/ck3-agot-lighter-terrain[/url]
