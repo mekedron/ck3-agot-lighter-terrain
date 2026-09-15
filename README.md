@@ -36,6 +36,8 @@ from the installed AGOT and checks that every array is uniform; the encoder and 
 (`tools/ddstools.py`) are the ones from ck3-agot-performance-patch (Pillow decode, ImageMagick
 7 DXT encode per mip level). Re-run it after an AGOT update.
 
+Workshop: [3802303268](https://steamcommunity.com/sharedfiles/filedetails/?id=3802303268).
+
 Load it directly below A Game of Thrones (and COW-AGOT), **instead of** AGOT Micro - not
 together with it. It overlaps no other mod of the AGOT playset.
 
