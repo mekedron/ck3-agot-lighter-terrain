@@ -1,5 +1,8 @@
 AGOT Lighter Terrain Textures
 
+SUPPORT ON THE PARADOX FORUM
+I have asked Paradox to fix the blurry map with Advanced Shaders off and the ultrawide pause menu in the game itself. A like or a reply in https://forum.paradoxplaza.com/forum/threads/1946916/ helps.
+
 Guide: https://steamcommunity.com/sharedfiles/filedetails/?id=3800254441 — the settings and mods this belongs to.
 
 For https://steamcommunity.com/sharedfiles/filedetails/?id=2962333032 on a GPU with little video memory: every terrain texture AGOT's map uses, at half its size. 470 textures, 157 MB down to 39 MB, built from AGOT's own current files. A little less ground detail up close, the same colours everywhere.

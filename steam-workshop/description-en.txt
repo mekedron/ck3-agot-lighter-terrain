@@ -1,5 +1,8 @@
 [h1]AGOT Lighter Terrain Textures[/h1]
 
+[h2]Support on the Paradox forum[/h2]
+I have asked Paradox to fix the blurry map with Advanced Shaders off and the ultrawide pause menu in the game itself. A [b]like or a reply[/b] in [url=https://forum.paradoxplaza.com/forum/threads/1946916/]the forum thread[/url] helps.
+
 [b]Guide:[/b] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3800254441]CK3 on a potato PC: a locked 60 FPS, and the map still looks sharp[/url] — the settings and mods this belongs to.
 
 For [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2962333032]A Game of Thrones[/url] on a GPU with little video memory: every terrain texture AGOT's map uses, at half its size. 470 textures, 157 MB down to 39 MB, built from AGOT's own current files. A little less ground detail up close, the same colours everywhere.

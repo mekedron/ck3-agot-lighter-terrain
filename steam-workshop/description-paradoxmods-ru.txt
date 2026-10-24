@@ -1,5 +1,8 @@
 AGOT Lighter Terrain Textures
 
+ПОДДЕРЖИТЕ НА ФОРУМЕ PARADOX
+Я попросил Paradox исправить в самой игре размытую карту без Advanced Shaders и меню паузы на широких мониторах. Помогут лайк или ответ в https://forum.paradoxplaza.com/forum/threads/1946916/.
+
 Гайд: https://steamcommunity.com/sharedfiles/filedetails/?id=3800254441 — настройки и моды, к которым это относится.
 
 Для https://steamcommunity.com/sharedfiles/filedetails/?id=2962333032 на видеокарте с небольшим объёмом памяти: все текстуры ландшафта, которые использует карта AGOT, вдвое меньше по размеру. 470 текстур, 39 МБ вместо 157 МБ, собраны из текущих файлов самого AGOT. Чуть меньше детализации земли вблизи, цвета везде те же.

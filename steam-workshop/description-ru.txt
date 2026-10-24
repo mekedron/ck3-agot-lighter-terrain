@@ -1,5 +1,8 @@
 [h1]AGOT Lighter Terrain Textures[/h1]
 
+[h2]Поддержите на форуме Paradox[/h2]
+Я попросил Paradox исправить в самой игре размытую карту без Advanced Shaders и меню паузы на широких мониторах. Помогут [b]лайк или ответ[/b] в [url=https://forum.paradoxplaza.com/forum/threads/1946916/]теме на форуме[/url].
+
 [b]Гайд:[/b] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3800254441]CK3 on a potato PC: a locked 60 FPS, and the map still looks sharp[/url] — настройки и моды, к которым это относится.
 
 Для [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2962333032]A Game of Thrones[/url] на видеокарте с небольшим объёмом памяти: все текстуры ландшафта, которые использует карта AGOT, вдвое меньше по размеру. 470 текстур, 39 МБ вместо 157 МБ, собраны из текущих файлов самого AGOT. Чуть меньше детализации земли вблизи, цвета везде те же.
